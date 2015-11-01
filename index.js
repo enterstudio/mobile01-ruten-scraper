@@ -1,1 +1,1 @@
-module.exports = require('./lib/ruten');
+module.exports = require('./lib/mobile');
