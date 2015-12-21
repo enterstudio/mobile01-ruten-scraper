@@ -9,4 +9,4 @@ Usage
 
 license
 ==
-MIT
+MIT @ Calvin Jeng
